@@ -1,6 +1,6 @@
 name: Build
 
-on: push
+on: workfow_dipatch
 
 jobs:
   build:
