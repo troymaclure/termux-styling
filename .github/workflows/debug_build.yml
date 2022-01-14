@@ -1,6 +1,6 @@
 name: Build
 
-on: workfow_dispatch
+on: workflow_dispatch
 
 jobs:
   build:
